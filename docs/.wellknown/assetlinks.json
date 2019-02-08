@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "inc.pacific.sleepapp",
+      "sha256_cert_fingerprints":
+      ["F2:80:8F:53:E9:5B:49:34:E4:A0:B4:79:0A:51:C8:11:C2:12:C2:5A:DA:AC:B2:43:D0:F7:49:70:8A:5C:71:AC"]
+    }
+  }]
